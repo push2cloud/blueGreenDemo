@@ -1,7 +1,7 @@
 {
   "name": "cf-sample-app-node",
   "version": "blue",
-  "deployment": {}
+  "deployment": {},
   "description": "A sample Node.js application to run on Cloud Foundry out of the box",
   "keywords": [
     "cloud-foundry"
