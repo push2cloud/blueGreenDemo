@@ -6,7 +6,6 @@
   "keywords": [
     "cloud-foundry"
   ],
-  "version": "0.0.0",
   "private": true,
   "author": "Tobias Fuhrimann <tobias.fuhrimann@swisscom.com>",
   "license": "ISC",
