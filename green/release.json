@@ -1,0 +1,16 @@
+{
+  "name": "push2cloud-blueGreen-demo",
+  "description": "release manifest for push2cloud blueGreen demo",
+  "version": "1.0.0",
+  "source": {
+    "type": "git",
+    "url": "git@github.com:push2cloud/blueGreenDemo.git",
+    "referenceValue": "master"
+  },
+  "apps": {
+    "cf-sample-app-node": {
+      "path": "green/app",
+      "manifest": "package.json"
+    }
+  }
+}
